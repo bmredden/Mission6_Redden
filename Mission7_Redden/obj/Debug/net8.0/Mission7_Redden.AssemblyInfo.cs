@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mission7_Redden")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d03c22074e9bb57c59a805a6c25920291e166382")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64c76e8b9f732e2febdfa0279bdc57a8c1eca0dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mission7_Redden")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mission7_Redden")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
